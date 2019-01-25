@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1548015433 source:c:\users\ldwar\onedrive\documents\codeblocks templats\dungeon crawl\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
